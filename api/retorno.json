@@ -1,0 +1,27 @@
+[
+    {
+      "nome": "takenet/library.data",
+      "descricao": "Provides a simple abstraction for implementing the repository and unit of work patterns for data-enabled applications",
+      "avatar": "https://avatars.githubusercontent.com/u/4369522?v=4"
+    },
+    {
+      "nome": "takenet/library.logging",
+      "descricao": "Provides a simple logging interface for applications and some basic implementations of this interface",
+      "avatar": "https://avatars.githubusercontent.com/u/4369522?v=4"
+    },
+    {
+      "nome": "takenet/libphonenumber-csharp",
+      "descricao": "Forking original c# port",
+      "avatar": "https://avatars.githubusercontent.com/u/4369522?v=4"
+    },
+    {
+      "nome": "takenet/Takenet.ScoreSystem",
+      "descricao": "Takenet score system",
+      "avatar": "https://avatars.githubusercontent.com/u/4369522?v=4"
+    },
+    {
+      "nome": "takenet/ServiceStack.Text",
+      "descricao": ".NET's fastest JSON, JSV and CSV Text Serializers ",
+      "avatar": "https://avatars.githubusercontent.com/u/4369522?v=4"
+    }
+  ]
