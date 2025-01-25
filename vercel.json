@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "api/repositorios.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/repositorios",
+        "dest": "/api/repositorios.js"
+      }
+    ]
+  }
+  
